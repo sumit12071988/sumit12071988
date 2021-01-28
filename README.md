@@ -1,5 +1,5 @@
 #
-![Quote](https://2uc5db1v032h5jwcm2gal07i-wpengine.netdna-ssl.com/wp-content/uploads/legacy/sites/default/files/14_43.jpg)
+![Quote](https://www.channelfutures.com/files/2019/07/Automation-877x432.jpg)
 
 <!--
 **sumit12071988/sumit12071988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
