@@ -1,12 +1,5 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ... Selenium
-- 🌱 I’m currently learning ... Appium
-- 🤔 I’m looking for help with ... Rest Assured
-- 💬 Ask me about ... Web, Mobile and Window automations
-
-
-![Quote](https://miro.medium.com/max/300/0*G5LU9ITFSrCleyzS.jpg)
+#
+![Quote](https://www.channelfutures.com/files/2019/07/Automation-877x432.jpg)
 
 <!--
 **sumit12071988/sumit12071988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
