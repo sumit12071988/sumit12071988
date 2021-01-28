@@ -1,5 +1,5 @@
 #
-![Quote](https://i2.wp.com/www.faithatthebeach.com/wp-content/uploads/2013/06/satisfaction.jpg)
+![Quote](https://www.lemonthistle.com/wp-content/uploads/2019/08/September2019TechWallpaperQuote.jpg)
 
 <!--
 **sumit12071988/sumit12071988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
