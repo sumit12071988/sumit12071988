@@ -1,5 +1,5 @@
 #
-![Quote](https://c1.wallpaperflare.com/preview/632/311/815/outdoors-people-sky-climb.jpg)
+![Quote](https://www.go-cdc.org/uploads/1/5/1/7/15176292/helping-others_orig.jpg)
 
 <!--
 **sumit12071988/sumit12071988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
