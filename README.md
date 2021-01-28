@@ -1,5 +1,5 @@
 #
-![Quote](https://www.channelfutures.com/files/2019/07/Automation-877x432.jpg)
+![Quote](https://c1.wallpaperflare.com/preview/632/311/815/outdoors-people-sky-climb.jpg)
 
 <!--
 **sumit12071988/sumit12071988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
