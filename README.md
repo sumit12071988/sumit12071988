@@ -1,5 +1,5 @@
 #
-![Quote](https://drive.google.com/uc?export=view&id=1J31ZJxuhmZksvKhxUnxdG49O9YtRjG0y)
+![Quote](https://drive.google.com/uc?export=view&id=1mvDk7q0B7v7ZMIPb93S8Tre-WOy3wxth)
 
 <!--
 **sumit12071988/sumit12071988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
