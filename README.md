@@ -1,5 +1,5 @@
 
-![Quote](https://drive.google.com/uc?export=view&id=1d-HGFm7pfSTxXsyDCCNPA9R7nvYPgJ-Q)
+![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME**
 
