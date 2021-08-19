@@ -1,4 +1,4 @@
-# ** MY TECH STACK **
+# MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME**
