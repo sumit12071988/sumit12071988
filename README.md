@@ -13,4 +13,4 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
     Recognitions and Tesseract OCR]
 
 # MOTTO IN LIFE
-![Quote](https://wi.wallpapertip.com/wsimgs/31-314214_work-hard-stay-humble-motivational-wallpaper-hard-eight.jpg)
+![Quote](https://dogtrainingobedienceschool.com/pic/9052917_full-quotes-about-hard-work-and-disappointment-the-iceberg-illusion-success-is-an-iceberg-what-people-se-success.png)
