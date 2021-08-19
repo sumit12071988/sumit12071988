@@ -13,4 +13,4 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
     Recognitions and Tesseract OCR]
 
 # MOTTO IN LIFE
-![Quote](https://www.lemonthistle.com/wp-content/uploads/2019/08/September2019TechWallpaperQuote.jpg)
+![Quote](https://i.pinimg.com/originals/3f/00/4d/3f004d7af6daea4172f7c840f2ad6527.jpg)
