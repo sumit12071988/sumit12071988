@@ -13,4 +13,4 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
     Recognitions and Tesseract OCR]
 
 # MOTTO IN LIFE
-![Quote](https://quotlr.com/images/quotes/BpLpALMCIAApr4D.png)
+![Quote](https://1.bp.blogspot.com/-9pdSO1PHXow/XO09cVBbF0I/AAAAAAAAF_I/SlM3ndEZPzs9u2hVvMmjcVS_13RSdjc2wCLcBGAs/s640/together-success-quotes-together-power-can-do.JPEG)
