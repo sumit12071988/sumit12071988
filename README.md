@@ -14,3 +14,4 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
 
 # MOTTO IN LIFE
 ![Quote](https://1.bp.blogspot.com/-9pdSO1PHXow/XO09cVBbF0I/AAAAAAAAF_I/SlM3ndEZPzs9u2hVvMmjcVS_13RSdjc2wCLcBGAs/s640/together-success-quotes-together-power-can-do.JPEG)
+![Quote](https://images6.fanpop.com/image/photos/34500000/SSJ2-Gohan-Gif-rileyferguson-34521952-853-480.gif)
