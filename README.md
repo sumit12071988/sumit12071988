@@ -12,5 +12,5 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
  3. Sikuli with Java [for automating Windows applications using Image
     Recognitions and Tesseract OCR]
 
-# MOTO IN LIFE
+# MOTTO IN LIFE
 ![Quote](https://www.lemonthistle.com/wp-content/uploads/2019/08/September2019TechWallpaperQuote.jpg)
