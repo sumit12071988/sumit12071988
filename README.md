@@ -23,4 +23,4 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
 
 
 ## THANKS FOR BROWSING THROUGH MY PROFILE :) . AS A GOOWILL GESTURE, PLEASE ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
-                                      ![Quote](https://i.imgur.com/1s5fpG2.gif)
+   !                               [Quote](https://i.imgur.com/1s5fpG2.gif)
