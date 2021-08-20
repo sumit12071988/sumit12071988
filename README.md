@@ -12,4 +12,4 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
  3. Sikuli with Java [for automating Windows applications using Image
     Recognitions and Tesseract OCR]
 
-![Quote](https://i.imgur.com/i0Ims.gif)
+![Quote](https://i.imgur.com/1s5fpG2.gif)
