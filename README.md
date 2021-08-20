@@ -12,4 +12,11 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
  3. Sikuli with Java [for automating Windows applications using Image
     Recognitions and Tesseract OCR]
 
+# SELENIUM WEBDRIVER 3.0 ARCHITECTURE
+![Quote](https://www.researchgate.net/publication/342581217/figure/fig1/AS:908309292916737@1593569219340/Selenium-Remote-Control-RC-and-Selenium-WebDriver-architecture.ppm)
+
+# APPIUM ARCHITECTURE
+![Quote](https://www.upgrad.com/blog/wp-content/uploads/2020/06/Appium-Architecture.jpg)
+
+
 ![Quote](https://i.imgur.com/1s5fpG2.gif)
