@@ -13,7 +13,7 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
     Recognitions and Tesseract OCR]
 
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE
-![Quote](https://www.researchgate.net/publication/342581217/figure/fig1/AS:908309292916737@1593569219340/Selenium-Remote-Control-RC-and-Selenium-WebDriver-architecture.ppm)
+![Quote](https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png)
 
 # APPIUM ARCHITECTURE
 ![Quote](https://www.upgrad.com/blog/wp-content/uploads/2020/06/Appium-Architecture.jpg)
