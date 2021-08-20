@@ -18,5 +18,5 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
 # APPIUM ARCHITECTURE
 ![Quote](https://www.upgrad.com/blog/wp-content/uploads/2020/06/Appium-Architecture.jpg)
 
-
+# JUST FOR FUN ^_^
 ![Quote](https://i.imgur.com/1s5fpG2.gif)
