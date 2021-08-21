@@ -1,4 +1,4 @@
-# MY TECH STACK
+# ![Quote](https://www.eurosis.org/cms/files/go.gif)  MY TECH STACK  ![Quote](https://www.eurosis.org/cms/files/go.gif)
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # ![Quote](https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp) **ABOUT ME** ![Quote](https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp)
