@@ -17,23 +17,25 @@
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
 #
-## <img src="https://i.redd.it/bevylwbyo6n41.gif" width="100" height="100" >AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
+## <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
 - **WEB AUTOMATION**: Selenium WebDriver with Java
 - **MOBILE AUTOMATION**: Appium
 - **WINDOWS AUTOMATION**: Sikuli with Java
 
-# <img src="https://www.psychicguild.com/wp-content/plugins/tarot-games/public/img/game-crystal-ball-before.gif" width="60" height="60"> SELENIUM WEBDRIVER 3.0 ARCHITECTURE
-![Quote](https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png)
+# SELENIUM WEBDRIVER 3.0 ARCHITECTURE
+<img src="https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png" width="890">
 
-# <img src="https://www.psychicguild.com/wp-content/plugins/tarot-games/public/img/game-crystal-ball-before.gif" width="60" height="60">APPIUM ARCHITECTURE
-![Quote](https://www.upgrad.com/blog/wp-content/uploads/2020/06/Appium-Architecture.jpg)
+# APPIUM ARCHITECTURE
+<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="890">
 
-# <img src="https://www.psychicguild.com/wp-content/plugins/tarot-games/public/img/game-crystal-ball-before.gif" width="60" height="60">APPIUM RUNNING MULTIPLE DEVICES
-![Quote](https://raw.githubusercontent.com/saucelabs/sample-app-mobile/main/docs/assets/android-overview.gif) ![Quote](https://raw.githubusercontent.com/saucelabs/sample-app-mobile/main/docs/assets/ios-overview.gif)
+# SELENIUM HIERARCHIAL DIAGRAM
+<img src="https://www.qacult.com/blogs/navigate-to-url-enter-text-or-click-on-webelement-with-javascript-using-javascriptexecutor-interface-in-selenium-and-understanding-its-arguments1576713117.png" width="890">
 
-# <img src="https://www.psychicguild.com/wp-content/plugins/tarot-games/public/img/game-crystal-ball-before.gif" width="60" height="60">JAVA COLLECTIONS HIERARCHIAL DIAGRAM
-![Quote](https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9)
+# JAVA EXCEPTIONS HIERARCHIAL DIAGRAM 
+<img src="https://www.manishsanger.com/wp-content/uploads/2018/03/Exception-Hierarchy.png" width="890">
 
+# JAVA COLLECTIONS HIERARCHIAL DIAGRAM
+<img src="https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9" width="890">
 
 ## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE !!.... ..DO ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
-<img src="https://25.media.tumblr.com/75a8b5f7b6fb6c69dd618a5df329dfd1/tumblr_mx0cni5ZNa1qkjjfoo1_500.gif" width="200" height="200"><img src="https://i.imgur.com/GJdG8SA.gif" width="200" height="200"> <img src="https://i.pinimg.com/originals/99/11/1e/99111ea62037f78a706459c88cce5b0b.gif" width="200" height="200"><img src="https://i.imgur.com/QgIxwv6.gif" width="200" height="200"> 
+<img src="https://25.media.tumblr.com/75a8b5f7b6fb6c69dd618a5df329dfd1/tumblr_mx0cni5ZNa1qkjjfoo1_500.gif" width="200" height="200"><img src="https://i.imgur.com/GJdG8SA.gif" width="200" height="200"> <img src="https://i.pinimg.com/originals/99/11/1e/99111ea62037f78a706459c88cce5b0b.gif" width="200" height="200"><img src="https://i.imgur.com/QgIxwv6.gif" width="200" height="200">
