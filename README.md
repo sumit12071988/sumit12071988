@@ -2,7 +2,7 @@
 # MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# **ABOUT ME**  <img src="https://userscontent2.emaze.com/images/5945d480-88…5794a46d629b/ab04df7cd1c968f66c2cba702a8174c2.gif" width="200" height="200" >
+# **ABOUT ME**  <img src="https://i.gifer.com/Z3us.gif" width="200" height="200" >
 
 
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="220" height="220" align="left">
