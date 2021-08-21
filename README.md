@@ -2,7 +2,7 @@
 # MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# **ABOUT ME**  <img src="https://toppng.com/uploads/preview/minions-png-transparent-image-minion-stuart-11562979774dj95rhdovq.png" width="200" height="200" >
+# **ABOUT ME**  <img src="https://www.pinclipart.com/picdir/middle/525-5251004_minions-clip-art-kevin-the-minion-felonious-gru.png" width="200" height="200" >
 
 
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="220" height="220" align="left">
