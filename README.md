@@ -9,7 +9,7 @@
 
 Seasoned Automation Consultant with around 7+ years of experience in automating Web, Window and Mobile Apps [Native Apps as well as Hybrid Apps]
 
-Experienced in mentoring QA resources & developing automation frameworks from ground level till CI/CD integration using
+Experienced in mentoring QA resources & developing automation frameworks from ground level till CI/CD integration
 
  1. **WEB AUTOMATION**: Selenium WebDriver with Java
  2. **MOBILE AUTOMATION**: Appium
