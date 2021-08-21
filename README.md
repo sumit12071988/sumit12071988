@@ -14,7 +14,7 @@
  - Experienced in developing automation frameworks from ground level
    (using POM Design pattern) till CI/CD integration
 #
-# AUTOMATION TOOLS USED
+## AUTOMATION TOOLS USED
  - **WEB AUTOMATION**: Selenium WebDriver with Java
  - **MOBILE AUTOMATION**: Appium
  - **WINDOWS AUTOMATION**: Sikuli with Java
