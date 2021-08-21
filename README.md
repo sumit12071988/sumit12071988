@@ -1,7 +1,7 @@
 # MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# ![Quote](http://www.medimaahealthcare.com/assets/frontend/images/maii.gif) **ABOUT ME** ![Quote](http://www.medimaahealthcare.com/assets/frontend/images/maii.gif)
+# ![Quote](https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp) **ABOUT ME** ![Quote](https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp)
 
 Seasoned Automation Consultant with around 7+ years of experience in automating Web, Window and Mobile Apps [Native Apps as well as Hybrid Apps]
 
