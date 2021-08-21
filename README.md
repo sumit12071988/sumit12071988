@@ -17,6 +17,7 @@
    (using POM Design pattern) till CI/CD integration.
  
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
+ - ISTQB CTFL, CSM and SAP FI Certified
   
 ## AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
  - **WEB AUTOMATION**: Selenium WebDriver with Java
