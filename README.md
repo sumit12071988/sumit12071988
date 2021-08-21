@@ -16,7 +16,7 @@
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
-###
+#
 ## <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
 <img src="https://www.psychicguild.com/wp-content/plugins/tarot-games/public/img/game-crystal-ball-before.gif" width="20" height="20"> **WEB AUTOMATION**: Selenium WebDriver with Java
 <img src="https://www.psychicguild.com/wp-content/plugins/tarot-games/public/img/game-crystal-ball-before.gif" width="20" height="20"> **MOBILE AUTOMATION**: Appium
