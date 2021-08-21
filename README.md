@@ -33,4 +33,4 @@
 
 
 ## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE !!.... ..DO ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
-<img src="https://i.imgur.com/1s5fpG2.gif" align="">
+<img src="https://i.imgur.com/1s5fpG2.gif" align="center">
