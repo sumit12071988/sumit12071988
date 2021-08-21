@@ -13,6 +13,7 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
  1. **WEB AUTOMATION**: Selenium WebDriver with Java
  2. **MOBILE AUTOMATION**: Appium
  3. **WINDOWS AUTOMATION**: Sikuli with Java
+###
 #
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE
 ![Quote](https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png)
