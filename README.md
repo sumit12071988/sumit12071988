@@ -1,18 +1,23 @@
 
+
 # MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME**  <img src="https://williamhu1108.files.wordpress.com/2015/08/minion.gif" width="100" height="100" >
 
-<img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="220" height="220" align="left">
-Seasoned Automation Consultant with around 7+ years of experience in automating Web, Window and Mobile Apps [Native Apps as well as Hybrid Apps]
+<img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
 
-Experienced in developing automation frameworks from ground level (using POM Design pattern) till CI/CD integration
+ - Seasoned Automation Consultant with around 7+ years of experience in
+   automating Web, Window and Mobile Apps [Native Apps as well as Hybrid
+   Apps]
 
------ AUTOMATION TOOLS USED: -----
- 1. **WEB AUTOMATION**: Selenium WebDriver with Java
- 2. **MOBILE AUTOMATION**: Appium
- 3. **WINDOWS AUTOMATION**: Sikuli with Java
+ - Experienced in developing automation frameworks from ground level
+   (using POM Design pattern) till CI/CD integration
+#
+# AUTOMATION TOOLS USED
+ - **WEB AUTOMATION**: Selenium WebDriver with Java
+ - **MOBILE AUTOMATION**: Appium
+ - **WINDOWS AUTOMATION**: Sikuli with Java
 
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE
 ![Quote](https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png)
