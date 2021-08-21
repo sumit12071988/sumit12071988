@@ -1,9 +1,11 @@
 
 
-# MY TECH STACK
+
+
+# MY TECH STACK <img src="https://i.redd.it/bevylwbyo6n41.gif" width="100" height="100" >
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# **ABOUT ME**  <img src="https://williamhu1108.files.wordpress.com/2015/08/minion.gif" width="100" height="100" >
+# **ABOUT ME**  <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gifv" width="100" height="100">
 
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
 
@@ -14,7 +16,7 @@
  - Experienced in developing automation frameworks from ground level
    (using POM Design pattern) till CI/CD integration
 #
-## AUTOMATION TOOLS USED
+## AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
  - **WEB AUTOMATION**: Selenium WebDriver with Java
  - **MOBILE AUTOMATION**: Appium
  - **WINDOWS AUTOMATION**: Sikuli with Java
