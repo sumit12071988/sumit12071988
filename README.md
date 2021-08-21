@@ -1,8 +1,8 @@
 # MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# **ABOUT ME** ![Quote](https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp )
-<img src="https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp" width="100" height="100">
+<img src="https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp" width="100" height="100"> # **ABOUT ME** <img src="https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp" width="100" height="100">
+
 
 Seasoned Automation Consultant with around 7+ years of experience in automating Web, Window and Mobile Apps [Native Apps as well as Hybrid Apps]
 
