@@ -15,7 +15,7 @@
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
-###
+#
 ## AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
  - **WEB AUTOMATION**: Selenium WebDriver with Java
  - **MOBILE AUTOMATION**: Appium
@@ -34,5 +34,3 @@
 ![Quote](https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9)
 
 
-## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE !!.... ..DO ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
-<img src="https://25.media.tumblr.com/75a8b5f7b6fb6c69dd618a5df329dfd1/tumblr_mx0cni5ZNa1qkjjfoo1_500.gif" width="200" height="200"><img src="https://i.imgur.com/GJdG8SA.gif" width="200" height="200"> <img src="https://i.pinimg.com/originals/99/11/1e/99111ea62037f78a706459c88cce5b0b.gif" width="200" height="200"><img src="https://i.imgur.com/QgIxwv6.gif" width="200" height="200"> 
