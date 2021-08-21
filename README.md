@@ -5,7 +5,7 @@
 # MY TECH STACK <img src="https://i.redd.it/bevylwbyo6n41.gif" width="100" height="100" >
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# **ABOUT ME**  <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gifv" width="100" height="100">
+# **ABOUT ME**  <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gif" width="100" height="100">
 
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
 
