@@ -33,4 +33,4 @@
 
 
 ## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE !!.... ..DO ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
-<img src="https://i.imgur.com/1s5fpG2.gif" align="">
+<img src="https://25.media.tumblr.com/75a8b5f7b6fb6c69dd618a5df329dfd1/tumblr_mx0cni5ZNa1qkjjfoo1_500.gif" width="200" height="200"> <img src="https://i.pinimg.com/originals/e6/53/76/e6537609d8a5bea10611c345b351c7fd.gif" width="200" height="200"> <img src="https://i.pinimg.com/originals/99/11/1e/99111ea62037f78a706459c88cce5b0b.gif" width="200" height="200"><img src="https://i.imgur.com/QgIxwv6.gif" width="200" height="200"> 
