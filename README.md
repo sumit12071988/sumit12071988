@@ -1,17 +1,18 @@
+
 # MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# <img src="https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp" width="100" height="100"> **ABOUT ME** <img src="https://i.gifer.com/origin/49/49f01b752943d705fdf7b7f130851d20_w200.webp" width="100" height="100">
+# ![enter image description here](https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif)**ABOUT ME**  ![enter image description here](https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif)
 
+<img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="340" height="340" align="left">
 
 Seasoned Automation Consultant with around 7+ years of experience in automating Web, Window and Mobile Apps [Native Apps as well as Hybrid Apps]
 
 Experienced in mentoring QA resources & developing automation frameworks from ground level till CI/CD integration using
 
- 1. Selenium WebDriver with Java [for automating Web applications]
- 2. Appium with Java [for automating Mobile applications]
- 3. Sikuli with Java [for automating Windows applications using Image
-    Recognitions and Tesseract OCR]
+ 1. **WEB AUTOMATION**: Selenium WebDriver with Java
+ 2. **MOBILE AUTOMATION**: Appium
+ 3. **WINDOWS AUTOMATION**: Sikuli with Java
 
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE
 ![Quote](https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png)
@@ -26,5 +27,6 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
 ![Quote](https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9)
 
 
-## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE :) . AS A GOODWILL GESTURE, PLEASE ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
-![Quote](https://i.imgur.com/1s5fpG2.gif)
+## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE !!.... ..DO ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
+<img src="https://i.imgur.com/1s5fpG2.gif" align="">
+
