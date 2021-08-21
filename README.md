@@ -18,6 +18,9 @@ Experienced in mentoring QA resources & developing automation frameworks from gr
 # APPIUM ARCHITECTURE
 ![Quote](https://www.upgrad.com/blog/wp-content/uploads/2020/06/Appium-Architecture.jpg)
 
+# APPIUM RUNNING MULTIPLE DEVICES
+![Quote](https://raw.githubusercontent.com/saucelabs/sample-app-mobile/main/docs/assets/android-overview.gif) ![Quote](https://raw.githubusercontent.com/saucelabs/sample-app-mobile/main/docs/assets/ios-overview.gif)
+
 # JAVA COLLECTIONS HIERARCHIAL DIAGRAM
 ![Quote](https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9)
 
