@@ -1,6 +1,6 @@
 
 
-# MY TECH STACK <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxUamCpEvF10bSr2jeWVo2Pak-yNJLh9W3Rmd__gXnBn0vffsz69ByDBoRyc37h348Xo0&usqp=CAU" width="180" height="80" >
+# MY TECH STACK
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME**  <img src="https://williamhu1108.files.wordpress.com/2015/08/minion.gif" width="100" height="100" >
