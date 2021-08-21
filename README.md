@@ -47,5 +47,10 @@
 <img src="https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9" width="890">
 </p>
 
+# AGILE FRAMEWORK
+<p  align="center">
+<img src="https://savvycomsoftware.com/wp-content/uploads/2019/12/Agile-software-development-process.jpg" width="890" height = "690">
+</p>
+
 ## THANKS FOR YOUR TIME BROWSING THROUGH MY PROFILE !!.... ..DO ENJOY A LITTLE ANIMATION BEFORE YOU LEAVE !!
 <img src="https://25.media.tumblr.com/75a8b5f7b6fb6c69dd618a5df329dfd1/tumblr_mx0cni5ZNa1qkjjfoo1_500.gif" width="200" height="200"><img src="https://i.imgur.com/GJdG8SA.gif" width="200" height="200"> <img src="https://i.pinimg.com/originals/99/11/1e/99111ea62037f78a706459c88cce5b0b.gif" width="200" height="200"><img src="https://i.imgur.com/QgIxwv6.gif" width="200" height="200"> 
