@@ -1,8 +1,7 @@
-
-# <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gif" width="100" height="100">MY TECH STACK <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gif" width="100" height="100">
+# MY TECH STACK <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gif" width="100" height="100">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# <img src="https://64.media.tumblr.com/7c84d9a10e63a9a9a1fb7f676ca24881/3311c1a9f6cfa858-14/s250x400/54c4ca7a20ed0d80f9f32fadc43cc6307fe93ecf.gif" width="120" height="100">**ABOUT ME** <img src="https://64.media.tumblr.com/7c84d9a10e63a9a9a1fb7f676ca24881/3311c1a9f6cfa858-14/s250x400/54c4ca7a20ed0d80f9f32fadc43cc6307fe93ecf.gif" width="120" height="100">
+# **ABOUT ME** <img src="https://64.media.tumblr.com/7c84d9a10e63a9a9a1fb7f676ca24881/3311c1a9f6cfa858-14/s250x400/54c4ca7a20ed0d80f9f32fadc43cc6307fe93ecf.gif" width="120" height="100">
 
 
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
@@ -18,7 +17,7 @@
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
 #
-## <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
+## AUTOMATION TOOLS USED <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
 - **WEB AUTOMATION**: Selenium WebDriver with Java
 - **MOBILE AUTOMATION**: Appium
 - **WINDOWS AUTOMATION**: Sikuli with Java
