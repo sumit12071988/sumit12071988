@@ -10,7 +10,7 @@
    automating Web, Window and Mobile Apps [Native Apps as well as Hybrid
    Apps].
 
- - Experienced in developing automation frameworks from ground level
+ - Experienced in developing automation frameworks (Selenium and Appium) from ground level
    (using POM Design pattern) till CI/CD integration.
  
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
