@@ -1,7 +1,7 @@
-# MY TECH STACK <img src="https://64.media.tumblr.com/71e1702411ca3039cceaa118a794db16/3311c1a9f6cfa858-28/s1280x1920/325369f753ea076ec6ff13af2fb1f273c28fe1f0.gif" width="100" height="100">
+# MY TECH STACK <img src="https://www.cretechiotnyc.com/wp-content/uploads/2020/12/seo.gif" width="200" height="150">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
-# **ABOUT ME** <img src="https://64.media.tumblr.com/7c84d9a10e63a9a9a1fb7f676ca24881/3311c1a9f6cfa858-14/s250x400/54c4ca7a20ed0d80f9f32fadc43cc6307fe93ecf.gif" width="120" height="100">
+# **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="100" height="100">
 
 
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
