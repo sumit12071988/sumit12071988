@@ -1,4 +1,4 @@
-# MY TECH STACK <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
+# MY TECH STACK <img src="https://nebula.wsimg.com/6311a21a01f45428ef58714ab97ce077?AccessKeyId=A20DBF1E0D54692485DA&disposition=0&alloworigin=1" width="150" height="100">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
@@ -17,7 +17,7 @@
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
 #
-## AUTOMATION TOOLS USED <img src="https://content.readymag.com/5c20e290a4b1b7527dc4242f/1678486/upload-8f98ff80-6641-48f7-871d-ffa28667a626.gif" width="100" height="80">
+## AUTOMATION TOOLS USED <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">
 - **WEB AUTOMATION**: Selenium WebDriver with Java
 - **MOBILE AUTOMATION**: Appium
 - **WINDOWS AUTOMATION**: Sikuli with Java
