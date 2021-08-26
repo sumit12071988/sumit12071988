@@ -1,4 +1,4 @@
-# <img src="https://1789a7.medialib.edu.glogster.com/O0IeqqtfaN4VF38uR8ff/media/28/28b09c4b4243c8e0eb99bb19851069eb2891a151/suit-clipart-animation.gif" width="100" height="150"> MY TECH STACK 
+# MY TECH STACK <img src="https://i.imgur.com/3axHHQM.gif" width="100" height="100">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
