@@ -22,32 +22,32 @@
 - **MOBILE AUTOMATION**: Appium
 - **WINDOWS AUTOMATION**: Sikuli with Java
 
-# SELENIUM WEBDRIVER 3.0 ARCHITECTURE
+# SELENIUM WEBDRIVER 3.0 ARCHITECTURE <img src="https://ai-hmi.com/wp-content/plugins/preloader-sws/assets/img/bg-false/green-orbits.gif" width="50" height="50">
 <p  align="center">
 <img src="https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png" width="890">
 </p>
 
-# APPIUM ARCHITECTURE
+# APPIUM ARCHITECTURE <img src="https://ai-hmi.com/wp-content/plugins/preloader-sws/assets/img/bg-false/green-orbits.gif" width="50" height="50">
 <p  align="center">
 <img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="890" height="608">
 </p>
 
-# SELENIUM HIERARCHICAL DIAGRAM
+# SELENIUM HIERARCHICAL DIAGRAM <img src="https://ai-hmi.com/wp-content/plugins/preloader-sws/assets/img/bg-false/green-orbits.gif" width="50" height="50">
 <p  align="center">
 <img src="https://www.qacult.com/blogs/navigate-to-url-enter-text-or-click-on-webelement-with-javascript-using-javascriptexecutor-interface-in-selenium-and-understanding-its-arguments1576713117.png" width="890">
 </p>
 
-# JAVA EXCEPTIONS HIERARCHICAL DIAGRAM 
+# JAVA EXCEPTIONS HIERARCHICAL DIAGRAM <img src="https://ai-hmi.com/wp-content/plugins/preloader-sws/assets/img/bg-false/green-orbits.gif" width="50" height="50">
 <p  align="center">
 <img src="https://www.manishsanger.com/wp-content/uploads/2018/03/Exception-Hierarchy.png" width="740" height="700" align=""> 
 </p>
 
-# JAVA COLLECTIONS HIERARCHICAL DIAGRAM
+# JAVA COLLECTIONS HIERARCHICAL DIAGRAM <img src="https://ai-hmi.com/wp-content/plugins/preloader-sws/assets/img/bg-false/green-orbits.gif" width="50" height="50">
 <p  align="center">
 <img src="https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9" width="890">
 </p>
 
-# AGILE FRAMEWORK
+# AGILE FRAMEWORK <img src="https://ai-hmi.com/wp-content/plugins/preloader-sws/assets/img/bg-false/green-orbits.gif" width="50" height="50">
 <p  align="center">
 <img src="https://savvycomsoftware.com/wp-content/uploads/2019/12/Agile-software-development-process.jpg" width="890" height = "690">
 </p>
