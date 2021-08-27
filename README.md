@@ -53,7 +53,7 @@
 </p>
 
 # THANKS FOR VISITING MY GIT REPO
-### Feel free to connect with me by <img src="https://thumbs.gfycat.com/SandyGlitteringElkhound-size_restricted.gif" width="20" height = "20"> for any issues/ queries @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest
+### Feel free to connect with me by <img src="https://www.pngfind.com/pngs/m/42-421842_mail-black-envelope-symbol-svg-png-icon-free.png" width="80" height = "40"> for any issues/ queries @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest
 <p  align="center">
 <img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
