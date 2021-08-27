@@ -54,5 +54,5 @@
 
 # THANKS FOR VISITING MY GIT REPO
 <p  align="center">
-<img src="https://media1.giphy.com/media/3qskoItS15OUqkY9Vv/source.gif" width="400" height = "400">
+<img src="https://media1.giphy.com/media/3qskoItS15OUqkY9Vv/source.gif" width="200" height = "200">
 </p>
