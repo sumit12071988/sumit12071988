@@ -51,3 +51,8 @@
 <p  align="center">
 <img src="https://savvycomsoftware.com/wp-content/uploads/2019/12/Agile-software-development-process.jpg" width="890" height = "690">
 </p>
+
+# THANKS FOR VISITING MY GIT REPO
+<p  align="center">
+<img src="https://media1.giphy.com/media/3qskoItS15OUqkY9Vv/source.gif" width="400" height = "400">
+</p>
