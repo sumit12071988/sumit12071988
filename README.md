@@ -54,5 +54,5 @@
 
 # THANKS FOR VISITING MY GIT REPO
 <p  align="center">
-<img src="https://media1.giphy.com/media/3qskoItS15OUqkY9Vv/source.gif" width="200" height = "200">
+<img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
