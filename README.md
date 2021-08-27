@@ -29,7 +29,7 @@
 
 # APPIUM ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="890" height="308">
+<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="890" height="250">
 </p>
 
 # SELENIUM HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
