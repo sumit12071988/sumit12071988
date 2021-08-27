@@ -53,7 +53,7 @@
 </p>
 
 # THANKS FOR VISITING MY GIT REPO
-### Feel free to connect with me for any issues/ queries @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest
+### Feel free to connect with me by <img src="https://www.vernonhills.org/ImageRepository/Document?documentID=6850" width="100" height = "100"> for any issues/ queries @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest
 <p  align="center">
 <img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
