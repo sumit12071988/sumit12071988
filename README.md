@@ -1,4 +1,4 @@
-# MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="150" height="150">
+# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
