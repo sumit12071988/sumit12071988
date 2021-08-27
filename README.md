@@ -29,7 +29,7 @@
 
 # APPIUM ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="890" height="608">
+<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="890" height="308">
 </p>
 
 # SELENIUM HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
@@ -39,7 +39,7 @@
 
 # JAVA EXCEPTIONS HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://www.manishsanger.com/wp-content/uploads/2018/03/Exception-Hierarchy.png" width="740" height="700" align=""> 
+<img src="https://www.manishsanger.com/wp-content/uploads/2018/03/Exception-Hierarchy.png" width="740" height="340" align=""> 
 </p>
 
 # JAVA COLLECTIONS HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
@@ -49,7 +49,7 @@
 
 # AGILE FRAMEWORK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://savvycomsoftware.com/wp-content/uploads/2019/12/Agile-software-development-process.jpg" width="890" height = "690">
+<img src="https://savvycomsoftware.com/wp-content/uploads/2019/12/Agile-software-development-process.jpg" width="890" height = "290">
 </p>
 
 ### Thanks for visiting my Git repo. Feel free to connect with me by <img src="https://www.pngfind.com/pngs/m/42-421842_mail-black-envelope-symbol-svg-png-icon-free.png" width="20" height = "20"> for any issues/ queries @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest
