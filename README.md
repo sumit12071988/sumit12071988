@@ -44,7 +44,7 @@
 
 # JAVA COLLECTIONS HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://drive.google.com/uc?export=view&id=1hv3EEiG_TQkyRhr3HSbwd79NRMNyz5U9" width="890">
+<img src="https://drive.google.com/uc?export=view&id=1MxvdY9SuCMYureQoAG8ayazKdt0S2Coi" width="890">
 </p>
 
 # AGILE FRAMEWORK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
