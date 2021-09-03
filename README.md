@@ -1,3 +1,4 @@
+
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
@@ -29,7 +30,12 @@
 
 # APPIUM ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="900" height="500">
+<img src="https://miro.medium.com/max/1400/0*4vV6uvrh33NGCU4v" width="900" height="500">
+
+## ----------- EXPLANATION ------------
+
+ <img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="900" height="500">
+
 </p>
 
 # SELENIUM HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
