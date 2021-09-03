@@ -24,7 +24,7 @@
 
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://1.bp.blogspot.com/-uPfkaIRurCg/XpqpEIehxyI/AAAAAAAAJNc/DpFcdD95FWoGCEuvzPrG1rpX34r42IdZwCLcBGAsYHQ/s1600/1.png" width="890">
+<img src="https://miro.medium.com/max/1400/1*oHFG-BLZdPeUuaOcWCFEVw.png" width="890">
 </p>
 
 # APPIUM ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
