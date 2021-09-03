@@ -34,7 +34,7 @@
 
 # SELENIUM HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://www.qacult.com/blogs/navigate-to-url-enter-text-or-click-on-webelement-with-javascript-using-javascriptexecutor-interface-in-selenium-and-understanding-its-arguments1576713117.png" width="890">
+<img src="https://miro.medium.com/max/1400/1*oHFG-BLZdPeUuaOcWCFEVw.png" width="890">
 </p>
 
 # JAVA EXCEPTIONS HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
