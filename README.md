@@ -30,7 +30,7 @@
 
 # APPIUM ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <p  align="center">
-<img src="https://miro.medium.com/max/1400/0*4vV6uvrh33NGCU4v" width="900" height="500">
+<img src="https://miro.medium.com/max/1400/0*4vV6uvrh33NGCU4v" width="900" height="450">
 
 ## ----------- EXPLANATION ------------
 
