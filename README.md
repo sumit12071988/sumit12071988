@@ -1,4 +1,4 @@
-## GREETINGS VIEWERS !!  👋
+# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> GREETINGS VIEWERS !! 👋 <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
 
 I am a test automation enthusiast, and I love solving problems and building test automation frameworks. I am currently working as a test automation consultant and having some fun working on latest tech and building production grade test frameworks.
 
