@@ -32,7 +32,7 @@ I am a test automation enthusiast, and I love solving problems and building test
 #
 ## AUTOMATION TOOLS USED <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">
 - **WEB AUTOMATION**: Selenium WebDriver with Java
-- **MOBILE AUTOMATION**: Appium
+- **MOBILE AUTOMATION**: Appium with Java
 - **WINDOWS AUTOMATION**: Sikuli with Java
 
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
