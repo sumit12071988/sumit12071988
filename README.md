@@ -1,3 +1,15 @@
+## GREETINGS VISITOR !!  👋
+
+I am a test automation enthusiast, and I love solving problems and building test automation frameworks. I am currently working as a test automation consultant and having some fun working on latest tech and building production grade test frameworks.
+
+-   💬  Ask me about test automation, design, docker, ci, end to end automation
+-   ⚡  Some fun fact about my github projects below...
+
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12071988&layout=compact&show_icons=true&theme=highcontrast )
+
+
 
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
