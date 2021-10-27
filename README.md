@@ -80,6 +80,9 @@ I am a test automation enthusiast, and I love solving problems and building test
 <img src="https://blog.inedo.com/hubfs/Logos%20Banner.jpg" width="890">
 </p>
 
+# JOKE OF THE DAY !! <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 ### Thanks for visiting my Git repo. Feel free to connect with me by <img src="https://www.pngfind.com/pngs/m/42-421842_mail-black-envelope-symbol-svg-png-icon-free.png" width="20" height = "20"> for any consultations @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest
 <p  align="center">
 <img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
