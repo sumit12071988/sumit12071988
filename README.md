@@ -1,6 +1,9 @@
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit12071988&theme=github_dark)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
+
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
 
@@ -14,10 +17,6 @@
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
- -   💬  Some fun fact about my github projects below...
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit12071988&theme=github_dark)
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
 
 #
 ## AUTOMATION TOOLS USED <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">
