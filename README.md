@@ -1,22 +1,7 @@
-# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> GREETINGS VIEWERS !! 👋 <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
-
-I am a test automation enthusiast, and I love solving problems and building test automation frameworks. I am currently working as a test automation consultant and having some fun working on latest tech and building production grade test frameworks.
-
--   💬  Ask me about test automation, design, docker, ci, end to end automation
--   ⚡  Some fun fact about my github projects below...
-
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12071988&layout=compact&show_icons=true&theme=highcontrast )
-
-
-
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
 ![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
 
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
-
-
 <img src="https://www.esds.co.in/blog/wp-content/uploads/2019/11/rpa-robotic-process-automation.gif.pagespeed.ce_.pYfraY_2na.gif" width="300" height="300" align="left">
 
  - Seasoned Automation Consultant with around 7+ years of experience in
@@ -29,10 +14,16 @@ I am a test automation enthusiast, and I love solving problems and building test
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
+ -   💬  Some fun fact about my github projects below...
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit12071988&theme=github_dark)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
+
 #
 ## AUTOMATION TOOLS USED <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">
 - **WEB AUTOMATION**: Selenium WebDriver with Java
 - **MOBILE AUTOMATION**: Appium with Java
+- **API AUTOMATION**: RestAssured with Java
 - **WINDOWS AUTOMATION**: Sikuli with Java
 
 # SELENIUM WEBDRIVER 3.0 ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
