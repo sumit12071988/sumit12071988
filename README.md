@@ -1,5 +1,16 @@
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
-![Quote](https://drive.google.com/uc?export=view&id=1lYlhk9vm23JZEBnZ1_byORmRsiYRfbuz)
+<p align="center">
+<img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="100" height="100"> 
+<img  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/TestNg_-Different-Process-Execution-Methods.png" width="200" height="100">
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" width="100" height="100"> 
+<img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" width="100" height="100"> 
+<img  src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" width="110" height="100">
+<img  src="https://cdn.springpeople.com/media/Rest%20Assured.png" width="100" height="100"> 
+<img  src="https://cdn.contactcenterworld.com/images/company/sikuli-largex5-logo.png" width="150" height="100"> 
+
+<img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" width="100" height="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" height="100"> 
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="200" height="100"> 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit12071988&theme=github_dark)
