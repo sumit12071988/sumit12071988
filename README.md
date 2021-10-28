@@ -19,12 +19,13 @@
 <img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="100" height="100">  
 <p align="center">
 <img src="https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" height="100">
 <img src="https://cdn.pngsumo.com/junit-github-junit-png-280_280.jpg" width="100" height="100">
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" width="100" height="100">
 <img src="https://files.pvs-studio.com/static/images/Logo_SonarQube.png" width="160" height="100">  
-<img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="100" height="100">
 <p align="center">
+<img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="100" height="100">
 <img src="https://project.asiaebroker.com/images/atlassian-jira-logo-large.png" width="240" height="100">
 
