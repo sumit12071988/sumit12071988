@@ -75,7 +75,7 @@
 
 ### Thanks for visiting my Git repo. Feel free to connect with me via below channels. I'll try to respond to you at the earliest 
 ### a) <a href="https://www.linkedin.com/in/sumit-saha-626baa176/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
-### b) ![](https://img.shields.io/badge/email-sumit786.88@gmail.com-brightgreen)
+### b) ![](https://img.shields.io/badge/Email-sumit786.88@gmail.com-brightgreen)
 <p  align="center">
 <img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
