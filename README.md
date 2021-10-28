@@ -1,21 +1,27 @@
-# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
-<p align="center">
+# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> MY TECH STACK <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
+<p align="left">
 <img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="100" height="100"> 
 <img  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/TestNg_-Different-Process-Execution-Methods.png" width="200" height="100">
+<img src="https://editorconfig.org/logos/maven.png" width="120" height="100"> 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" width="100" height="100"> 
 <img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" width="100" height="100"> 
+ <p align="left">
 <img  src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" width="110" height="100">
 <img  src="https://cdn.springpeople.com/media/Rest%20Assured.png" width="100" height="100"> 
-<img  src="https://cdn.contactcenterworld.com/images/company/sikuli-largex5-logo.png" width="150" height="100"> 
-
+<img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="100" height=100"> 
 <img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" width="100" height="100"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" height="100"> 
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="200" height="100"> 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit12071988&theme=github_dark)
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
-
+<img src="https://cdn.pngsumo.com/junit-github-junit-png-280_280.jpg" width="100" height="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" height="100">
+<p align="left">
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="200" height="100">
+<img src="https://www.pngkit.com/png/full/529-5298888_start-a-selenium-grid-in-seconds-a-grid.png" width="250" height="100">
+<img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="100" height="100">  
+<img src="https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png" width="100" height="100">
+<p align="left">
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" width="100" height="100">
+<img src="https://files.pvs-studio.com/static/images/Logo_SonarQube.png" width="160" height="100">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="100" height="100"> 
+<img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="100" height="100"> 
 
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumit12071988&theme=flat&rank=S,AAA,AA,A,B,C&margin-w=20)
@@ -30,6 +36,13 @@
  - Experienced in SonarQube installation, Quality Gate configuration and SonarScans using SonarQube Community Edition.
  - Experienced with POC's involving text recognition tools like Tesseract OCR and openCV OCR.
  - ISTQB CTFL, CSM and SAP FI Certified
+                                                                                                    
+# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80"> MY GIT STATS <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="80" height="80">
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit12071988&theme=github_dark)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=chartreuse-dark)
+
+
+
 
 #
 ## AUTOMATION TOOLS USED <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">
