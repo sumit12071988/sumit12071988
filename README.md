@@ -73,7 +73,9 @@
 # JOKE OF THE DAY !! <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="100" height="100">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-### Thanks for visiting my Git repo. Feel free to connect with me either via <a href="https://www.linkedin.com/in/sumit-saha-626baa176/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> or by <img src="https://www.pngfind.com/pngs/m/42-421842_mail-black-envelope-symbol-svg-png-icon-free.png" width="20" height = "20"> for any consultations @ sumit786.88@gmail.com. I'll try my best to respond back at the earliest.
+### Thanks for visiting my Git repo. Feel free to connect with me via below channels. I'll try to respond to you at the earliest 
+### a) <a href="https://www.linkedin.com/in/sumit-saha-626baa176/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
+### b) ![](https://img.shields.io/badge/GMAIL-sumit786.88@gmail.com-brightgreen)
 <p  align="center">
 <img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
