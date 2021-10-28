@@ -54,7 +54,7 @@
 ## <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">AUTOMATION TOOLS USED 
 - **WEB AUTOMATION**: Selenium WebDriver with Java
 - **MOBILE AUTOMATION**: Appium with Java
-- **API AUTOMATION**: RestAssured with Java
+- **API AUTOMATION**: REST-Assured with Java
 - **WINDOWS AUTOMATION**: Sikuli with Java
 
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> SELENIUM WEBDRIVER 3.0 ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
