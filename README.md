@@ -7,7 +7,7 @@
 
 
 # **ABOUT ME** <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120">
-![trophy](https://github-profile-trophy.vercel.app/?username=sumit12071988&theme=monokai)
+![trophy](https://github-profile-trophy.vercel.app/?username=sumit12071988&theme=flat&rank=S,AAA,AA,A,B,C)
 
  - Seasoned Automation Consultant with around 7+ years of experience in
    automating Web, Window and Mobile Apps [Native Apps as well as Hybrid
