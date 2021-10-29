@@ -3,31 +3,31 @@
 <h3 align="center">I'm an Automation Consultant who loves automating anything</h3>
 
 <p align="center">
-<img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="60" height="60"> 
-<img  src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/TestNG-e1483024713865.png?fit=150%2C190&ssl=1" width="60" height="60">
-<img src="https://unixcop.com/wp-content/uploads/2021/04/Apache-maven.jpg" width="120" height="60"> 
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" width="60" height="60"> 
-<img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" width="60" height="60"> 
-<img src="https://www.pinclipart.com/picdir/big/567-5676022_appium-perfecto-appium-logo-clipart.png" width="80" height="60">
-<img src="https://www.glitchr-studio.com/wp-content/uploads/2016/07/android-studio.png" width="80" height="60">
-<img  src="https://cdn.springpeople.com/media/Rest%20Assured.png" width="60" height="60">
-<img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="60" height="60">
-<img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="60" height="60">
-<img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="60" height="60">
-<img src="https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png" width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="60" height="60">
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="120" height="60">
-<img src="https://gitlab.com/okj8/zalenium/-/avatar" width="80" height="60">
-<img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="60" height="60">
-<img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" width="60" height="60">
-<img src="https://lh3.googleusercontent.com/proxy/eJeg3HOkQ4tiWkU_TTvBfNpcwAze4AgSs7j-DXY3-20ZDlAYJkA4WISten_Rz8mQ5Vp8IJQxYTORtXn-PATGyBS_STrLyRpSZWMt0qsTFHqdb9Xvv-TERHIruA" width="180" height="60">
-<img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit.png" width="100" height="60">
-<img src="https://files.pvs-studio.com/static/images/Logo_SonarQube.png" width="100" height="60">
-<img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="60" height="60">
-<img src="https://jmeter.apache.org/images/jmeter_square.svg" width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="60" height="60">
-<img src="https://project.asiaebroker.com/images/atlassian-jira-logo-large.png" width="140" height="60">
+<img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" alt="bootstrap" width="80" height="80"/> 
+<img  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/TestNg_-Different-Process-Execution-Methods.png" alt="bootstrap" width="140" height="80">
+<img src="https://unixcop.com/wp-content/uploads/2021/04/Apache-maven.jpg" alt="bootstrap" width="160" height="80"> 
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" alt="bootstrap" width="80" height="80"> 
+<img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" alt="bootstrap" width="80" height="80"> 
+<img src="https://avatars3.githubusercontent.com/u/3221291?s=400&amp;v=4" alt="bootstrap" width="80" height="80">
+<img src="https://www.hsvshivavishnutemple.org.au/wp-content/uploads/2019/08/android-512.png" width="80" height="80">
+<img  src="https://cdn.springpeople.com/media/Rest%20Assured.png" alt="bootstrap" width="80" height="80">
+<img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="bootstrap" width="80" height="80">
+<img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" alt="bootstrap" width="80" height="80">
+<img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" alt="bootstrap" width="80" height="80">
+<img src="https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png" alt="bootstrap" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" alt="bootstrap" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="bootstrap" width="80" height="80">
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="bootstrap" width="160" height="80">
+<img src="https://gitlab.com/okj8/zalenium/-/avatar" alt="bootstrap" width="100" height="80">
+<img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" alt="bootstrap" width="80" height="80">
+<img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="bootstrap" width="80" height="80">
+<img src="https://lh3.googleusercontent.com/proxy/eJeg3HOkQ4tiWkU_TTvBfNpcwAze4AgSs7j-DXY3-20ZDlAYJkA4WISten_Rz8mQ5Vp8IJQxYTORtXn-PATGyBS_STrLyRpSZWMt0qsTFHqdb9Xvv-TERHIruA" alt="bootstrap" width="240" height="80">
+<img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit.png" alt="bootstrap" width="100" height="80">
+<img src="https://files.pvs-studio.com/static/images/Logo_SonarQube.png" alt="bootstrap" width="120" height="80">
+<img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" alt="bootstrap" width="80" height="80">
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="bootstrap" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" alt="bootstrap" width="80" height="80">
+<img src="https://project.asiaebroker.com/images/atlassian-jira-logo-large.png" alt="bootstrap" width="180" height="80">
 
 # <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120"> **ABOUT ME** 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumit12071988&theme=flat&rank=S,AAA,AA,A,B,C&margin-w=20)
