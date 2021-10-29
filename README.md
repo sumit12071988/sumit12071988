@@ -11,7 +11,7 @@
 <img  src="https://cdn.springpeople.com/media/Rest%20Assured.png" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="100" height="100">
 <img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="100" height=100">
-<img src="https://lh3.googleusercontent.com/proxy/wseNgEGVyck69eOYmXuo4Am34MreUPQH_xNZAvEGjjNTg9iG-y5DWvvrfsM2zfMqIr84KhpNm7T4XRy0dUr7" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="100" height="100">
 <p align="center">
 <img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" width="100" height="100"> 
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="200" height="100">
