@@ -1,7 +1,7 @@
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sumit" height="60" width="60" /></a>
- <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" alt="sumit" height="70" width="70" /></a>
+<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://www.seekpng.com/png/small/152-1521449_logo-linkedin-icon-linkedin-logo-no-background-black.png" alt="sumit" height="42" width="42" /></a>
+ <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://library.kissclipart.com/20180901/wre/kissclipart-blue-contact-details-icon-clipart-computer-icons-e-9c4766f0854d3ef3.png" alt="sumit" height="40" width="40" /></a>
  
 <h1 align="center">👋 Hi, I'm Sumit</h1>
 <h3 align="center">I'm an Automation Enthusiast :) </h3>
