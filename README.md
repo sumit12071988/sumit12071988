@@ -1,4 +1,7 @@
 
+<p align="center">
+<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumit" height="60" width="60" /></a>
+ 
 <h1 align="center">👋 Hi, I'm Sumit</h1>
 <h3 align="center">I'm an Automation Consultant who loves automating anything</h3>
 
