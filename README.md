@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> AUTOMATION <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
+# <p align="center"> <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">MY AUTOMATION TECH STACK<img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
 <p align="center">
 <img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="100" height="100"> 
 <img  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/TestNg_-Different-Process-Execution-Methods.png" width="200" height="100">
