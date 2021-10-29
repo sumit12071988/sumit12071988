@@ -1,6 +1,7 @@
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumit" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sumit" height="60" width="60" /></a>
+ <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" alt="sumit" height="70" width="70" /></a>
  
 <h1 align="center">👋 Hi, I'm Sumit</h1>
 <h3 align="center">I'm an Automation Enthusiast :) </h3>
@@ -107,9 +108,7 @@
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> JOKE OF THE DAY !! <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-### Thanks for visiting my Git repo. Feel free to connect with me via below channels. I'll try to respond to you at the earliest 
-### a) <a href="https://www.linkedin.com/in/sumit-saha-626baa176/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> 
-### b) ![](https://img.shields.io/badge/Email-sumit786.88@gmail.com-brightgreen)
+### Thanks for visiting my Git repo. Feel free to connect with me. I'll try to respond to you at the earliest
 <p  align="center">
 <img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
