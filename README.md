@@ -1,29 +1,26 @@
 # <p align="center"> <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">MY AUTOMATION TECH STACK<img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
 <p align="center">
 <img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="100" height="100"> 
-<img  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/TestNg_-Different-Process-Execution-Methods.png" width="200" height="100">
-<img src="https://editorconfig.org/logos/maven.png" width="120" height="100"> 
+<img  src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/11/TestNG-e1483024713865.png?fit=150%2C190&ssl=1" width="100" height="100">
+<img src="https://unixcop.com/wp-content/uploads/2021/04/Apache-maven.jpg" width="200" height="100"> 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" width="100" height="100"> 
 <img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" width="100" height="100"> 
- <p align="center">
 <img src="https://appsurify.com/wp-content/uploads/2021/07/Appium2.png" width="90" height="100">
 <img src="https://www.glitchr-studio.com/wp-content/uploads/2016/07/android-studio.png" width="120" height="100">
 <img  src="https://cdn.springpeople.com/media/Rest%20Assured.png" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="100" height="100">
 <img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="100" height=100">
 <img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="100" height="100">
-<p align="center">
-<img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" width="100" height="100"> 
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="200" height="100">
-<img src="https://www.pngkit.com/png/full/529-5298888_start-a-selenium-grid-in-seconds-a-grid.png" width="250" height="100">
-<img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="100" height="100">  
-<p align="center">
 <img src="https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" height="100">
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" width="200" height="100">
+<img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="100" height="100">
+<img src="https://www.pngkit.com/png/full/529-5298888_start-a-selenium-grid-in-seconds-a-grid.png" width="250" height="100">
+<img src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" width="100" height="100">
+<img src="https://lh3.googleusercontent.com/proxy/eJeg3HOkQ4tiWkU_TTvBfNpcwAze4AgSs7j-DXY3-20ZDlAYJkA4WISten_Rz8mQ5Vp8IJQxYTORtXn-PATGyBS_STrLyRpSZWMt0qsTFHqdb9Xvv-TERHIruA" width="300" height="100">
 <img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit.png" width="160" height="120">
-<img src="https://files.pvs-studio.com/static/images/Logo_SonarQube.png" width="160" height="100">  
-<p align="center">
+<img src="https://files.pvs-studio.com/static/images/Logo_SonarQube.png" width="160" height="100">
 <img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="100" height="100">
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="100" height="100">
