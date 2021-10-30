@@ -29,7 +29,7 @@
 <a href="https://www.sonarqube.org/" target="blank"><img src="https://www.spirebase.com/img/labs/sonarqube-logo.png" width="200" height="80">
 <a href="https://serenity-bdd.info/" target="blank"><img src="https://miro.medium.com/max/900/1*ugxD2DghxtoZHrjyEBDwbQ.png" width="200" height="80">
 <a href="https://junit.org/junit5/" target="blank"><img src="https://junit.org/junit4/images/junit5-banner.png" width="240" height="65">
-<a href="https://www.eclipse.org/ide/" target="blank"><img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="80" height="80">
+<a href="https://www.eclipse.org/ide/" target="blank"><img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="70" height="70">
 <a href="https://jmeter.apache.org/" target="blank"><img src="https://jmeter.apache.org/images/logo.svg" width="200" height="80">
 <a href="https://www.katalon.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="80" height="80">
 
