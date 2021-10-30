@@ -9,30 +9,29 @@
 <h3 align="center">I'm an Automation Enthusiast :) </h3>
 
 <p align="center">
-<img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="80" height="80"/> 
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" width="80" height="80"> 
-<img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" width="80" height="80"> 
-<img src="https://kitsonlinetrainings.com/public/storage/photos/1/appium-online-training.jpg" width="120" height="80">
-<img src="https://www.hsvshivavishnutemple.org.au/wp-content/uploads/2019/08/android-512.png" width="80" height="80">
-<img  src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" width="80" height="80">
-<img src="https://aimechanics.tech/wp-content/uploads/2020/04/postman-003.png" width="80" height="80">
-<img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="80" height="80">
-<img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="80" height="80">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RLswQYKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yp4tyvy7m0xjj0f2i7j.png" width="160" height="80">
-<img src="https://i1.wp.com/peppe8o.com/wp-content/uploads/2020/12/gogs-logo.jpg?resize=387%2C161&ssl=1" width="160" height="80">
-<img src="https://apprecs.org/ios/images/app-icons/256/c6/1196866502.jpg" width="80" height="80">
-<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" width="90" height="80">
-<img src="https://i.ytimg.com/vi/_C5bekbxNpc/maxresdefault.jpg" width="160" height="80">
-<img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="80" height="80">
-<img  src="https://i2.wp.com/blogs.perficient.com/files/2014/08/TestNG.png?ssl=1" width="80" height="90">
-<img src="https://unixcop.com/wp-content/uploads/2021/04/Apache-maven.jpg" width="160" height="80">
-<img src="https://pbs.twimg.com/profile_images/1259908463070756865/StEmxHED.png" width="80" height="80">
-<img src="https://jnelson.in/wp-content/uploads/2018/04/SQ-CI-256x.png" width="240" height="80">
-<img src="https://lh3.googleusercontent.com/proxy/eJeg3HOkQ4tiWkU_TTvBfNpcwAze4AgSs7j-DXY3-20ZDlAYJkA4WISten_Rz8mQ5Vp8IJQxYTORtXn-PATGyBS_STrLyRpSZWMt0qsTFHqdb9Xvv-TERHIruA" width="200" height="70">
-<img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit.png" width="100" height="100">
-<img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="80" height="80">
-<img src="https://jmeter.apache.org/images/jmeter_square.svg" width="80" height="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="80" height="80">
+<a href="https://www.java.com/en/" target="blank"><img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="80" height="80"/> 
+<a href="https://www.selenium.dev/documentation/webdriver/" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" width="80" height="80"> 
+<a href="https://www.selenium.dev/documentation/grid/" target="blank"><img src="https://assets.website-files.com/5eb9845c1d37d7efad64e226/60919fc3a8a9526927456823_selenium-Grid.png" width="80" height="80"> 
+<a href="https://appium.io/" target="blank"><img src="https://www.pinclipart.com/picdir/big/567-5676022_appium-perfecto-appium-logo-clipart.png" width="100" height="80">
+<a href="https://www.postman.com/" target="blank"><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="90" height="90">
+<a href="https://rest-assured.io/" target="blank"><img  src="https://rest-assured.io/img/name-transparent.png" width="240" height="44">
+<a href="http://www.sikulix.com/" target="blank"><img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="80" height="80">
+<a href="https://www.autoitscript.com/site/" target="blank"><img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="80" height="80">
+<a href="https://git-scm.com/" target="blank"><img src="https://www.logolynx.com/images/logolynx/c6/c619df96a5b24d8b45d923cc19bb82b4.jpeg" width="80" height="80">
+<a href="https://gogs.io/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" width="80" height="80">
+<a href="https://www.jenkins.io/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="220" height="80">
+<a href="https://www.docker.com/" target="blank"><img src="https://tmcalm.nl/wp-content/uploads/2020/07/docker_logo_tmc_alm.png" width="240" height="60">
+<a href="https://opensource.zalando.com/zalenium/" target="blank"><img src="https://opensource.zalando.com/zalenium/img/logo_zalenium_wide.png" width="200" height="80">
+<a href="https://aerokube.com/selenoid-ui/latest/" target="blank"><img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="80" height="80">
+<a href="https://testng.org/doc/" target="blank"><img  src="https://www.mailslurp.com/assets/brands/testng.png" width="180" height="50">
+<a href="https://mahttps://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.pngven.apache.org/" target="blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="180" height="50">
+<a href="https://cucumber.io/" target="blank"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/cucumber_logo.png" width="240" height="70">
+<a href="https://www.sonarqube.org/" target="blank"><img src="https://www.spirebase.com/img/labs/sonarqube-logo.png" width="180" height="70">
+<a href="https://serenity-bdd.info/" target="blank"><img src="https://miro.medium.com/max/900/1*ugxD2DghxtoZHrjyEBDwbQ.png" width="200" height="80">
+<a href="https://junit.org/junit5/" target="blank"><img src="https://junit.org/junit4/images/junit5-banner.png" width="240" height="65">
+<a href="https://www.eclipse.org/ide/" target="blank"><img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="80" height="80">
+<a href="https://jmeter.apache.org/" target="blank"><img src="https://jmeter.apache.org/images/logo.svg" width="200" height="80">
+<a href="https://www.katalon.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Katalon-logo-vector.svg/1200px-Katalon-logo-vector.svg.png" width="80" height="80">
 
 # <img src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width="140" height="120"> **ABOUT ME** 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumit12071988&theme=flat&rank=S,AAA,AA,A,B,C&margin-w=20)
