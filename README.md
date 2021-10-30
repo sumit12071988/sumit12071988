@@ -26,7 +26,7 @@
 <a href="https://testng.org/doc/" target="blank"><img  src="https://www.mailslurp.com/assets/brands/testng.png" width="180" height="50">
 <a href="https://mahttps://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.pngven.apache.org/" target="blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="180" height="50">
 <a href="https://cucumber.io/" target="blank"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/cucumber_logo.png" width="240" height="70">
-<a href="https://www.sonarqube.org/" target="blank"><img src="https://www.spirebase.com/img/labs/sonarqube-logo.png" width="180" height="70">
+<a href="https://www.sonarqube.org/" target="blank"><img src="https://www.spirebase.com/img/labs/sonarqube-logo.png" width="200" height="80">
 <a href="https://serenity-bdd.info/" target="blank"><img src="https://miro.medium.com/max/900/1*ugxD2DghxtoZHrjyEBDwbQ.png" width="200" height="80">
 <a href="https://junit.org/junit5/" target="blank"><img src="https://junit.org/junit4/images/junit5-banner.png" width="240" height="65">
 <a href="https://www.eclipse.org/ide/" target="blank"><img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="80" height="80">
