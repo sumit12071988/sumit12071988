@@ -19,7 +19,7 @@
 <a href="https://www.autoitscript.com/site/" target="blank"><img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="80" height="80">
 <a href="https://git-scm.com/" target="blank"><img src="https://www.logolynx.com/images/logolynx/c6/c619df96a5b24d8b45d923cc19bb82b4.jpeg" width="80" height="80">
 <a href="https://gogs.io/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" width="80" height="80">
-<a href="https://www.jenkins.io/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="220" height="80">
+<a href="https://www.jenkins.io/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1200px-Jenkins_logo_with_title.svg.png" width="240" height="80">
 <a href="https://www.docker.com/" target="blank"><img src="https://tmcalm.nl/wp-content/uploads/2020/07/docker_logo_tmc_alm.png" width="240" height="60">
 <a href="https://opensource.zalando.com/zalenium/" target="blank"><img src="https://opensource.zalando.com/zalenium/img/logo_zalenium_wide.png" width="200" height="80">
 <a href="https://aerokube.com/selenoid-ui/latest/" target="blank"><img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="80" height="80">
