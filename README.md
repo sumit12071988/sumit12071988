@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit12071988&style=plastic&label=Visitors" alt="Sumit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit12071988&style=plastic&label=Total Visitors Count" alt="Sumit" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://www.seekpng.com/png/small/152-1521449_logo-linkedin-icon-linkedin-logo-no-background-black.png" alt="sumit" height="42" width="42" /></a>
