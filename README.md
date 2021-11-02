@@ -24,7 +24,7 @@
 <a href="https://opensource.zalando.com/zalenium/" target="blank"><img src="https://opensource.zalando.com/zalenium/img/logo_zalenium_wide.png" width="200" height="80"/></a>
 <a href="https://aerokube.com/selenoid-ui/latest/" target="blank"><img src="https://gainanov.pro/eng-blog/assets/images/selenium/selenoid_logo.png" width="80" height="80"/></a>
 <a href="https://testng.org/doc/" target="blank"><img  src="https://www.mailslurp.com/assets/brands/testng.png" width="180" height="50"/></a>
-<a href="https://mahttps://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.pngven.apache.org/" target="blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="180" height="50"/></a>
+<a href="http://maven.apache.org/" target="blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="180" height="50"/></a>
 <a href="https://cucumber.io/" target="blank"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/cucumber_logo.png" width="240" height="70"/></a>
 <a href="https://www.sonarqube.org/" target="blank"><img src="https://www.spirebase.com/img/labs/sonarqube-logo.png" width="200" height="80"/></a>
 <a href="https://serenity-bdd.info/" target="blank"><img src="https://miro.medium.com/max/900/1*ugxD2DghxtoZHrjyEBDwbQ.png" width="200" height="80"/></a>
