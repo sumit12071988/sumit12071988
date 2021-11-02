@@ -111,5 +111,5 @@
 
 ### Thanks for visiting my Git repo. Feel free to connect with me. I'll try to respond to you at the earliest
 <p  align="center">
-<img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="100" height = "100">
+<img src="https://acegif.com/wp-content/uploads/2020/11/mdvdthkyou.gif" width="200" height = "200">
 </p>
