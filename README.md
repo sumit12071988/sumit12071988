@@ -69,11 +69,13 @@
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> APPIUM ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
 <p  align="center">
 <img src="https://miro.medium.com/max/1400/0*4vV6uvrh33NGCU4v" width="900" height="450">
+<img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="900" height="500">
+</p>
 
-## ----------- EXPLANATION ------------
-
- <img src="https://static.javatpoint.com/tutorial/appium/images/appium-architecture.png" width="900" height="500">
-
+# <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> RESTAssured ARCHITECTURE <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
+<p  align="center">
+<img src="https://www.zucisystems.com/wp-content/uploads/2018/10/RESTAssured.png" width="890">
+ <img src="https://miro.medium.com/max/1400/1*3Qej4jdnYl4csQMVhjFeJw.png" width="890">
 </p>
 
 # <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60"> SELENIUM HIERARCHICAL DIAGRAM <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
