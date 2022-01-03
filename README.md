@@ -6,7 +6,7 @@
  <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://library.kissclipart.com/20180901/wre/kissclipart-blue-contact-details-icon-clipart-computer-icons-e-9c4766f0854d3ef3.png" alt="sumit" height="40" width="40" /></a>
  
 <h1 align="center">👋 Hi, I'm Sumit</h1>
-<h3 align="center">I'm an Automation Enthusiast :) </h3>
+<h3 align="center">I'm an Automation Consultant :) </h3>
 
 <p align="center">
 <a href="https://www.java.com/en/" target="blank"><img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="80" height="80"/></a>
