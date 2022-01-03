@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit12071988&style=plastic&label=Total Visitors Count" alt="Sumit" /> </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://www.seekpng.com/png/small/152-1521449_logo-linkedin-icon-linkedin-logo-no-background-black.png" alt="sumit" height="42" width="42" /></a>
+<a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/linkedin-512.png" alt="sumit" height="42" width="42" /></a>
  <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://library.kissclipart.com/20180901/wre/kissclipart-blue-contact-details-icon-clipart-computer-icons-e-9c4766f0854d3ef3.png" alt="sumit" height="40" width="40" /></a>
  
 <h1 align="center">👋 Hi, I'm Sumit</h1>
@@ -55,7 +55,7 @@
 
 
 #
-## <img src="https://www.mehtabtech.com/img/web-development-automation.gif" width="150" height="100">AUTOMATION TOOLS USED 
+## <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">AUTOMATION TOOLS USED <img src="https://thumbs.gfycat.com/DisgustingSpiffyIguana-size_restricted.gif" width="60" height="60">
 - **WEB AUTOMATION**: Selenium WebDriver with Java
 - **MOBILE AUTOMATION**: Appium with Java
 - **API AUTOMATION**: REST-Assured with Java
