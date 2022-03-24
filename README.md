@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/linkedin-512.png" alt="sumit" height="42" width="42" /></a>
- <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://library.kissclipart.com/20180901/wre/kissclipart-blue-contact-details-icon-clipart-computer-icons-e-9c4766f0854d3ef3.png" alt="sumit" height="40" width="40" /></a>
+ <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-icon-12.png" alt="sumit" height="55" width="55" /></a>
  
 <h1 align="center">👋 Hi, I'm Sumit</h1>
 <h3 align="center">I'm an Automation Consultant :) </h3>
@@ -15,7 +15,7 @@
 <a href="https://appium.io/" target="blank"><img src="https://www.pinclipart.com/picdir/big/567-5676022_appium-perfecto-appium-logo-clipart.png" width="100" height="80"/></a>
 <a href="https://www.postman.com/" target="blank"><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="90" height="90"/></a></a>
 <a href="https://rest-assured.io/" target="blank"><img  src="https://rest-assured.io/img/name-transparent.png" width="240" height="44"/></a>
-<a href="http://www.sikulix.com/" target="blank"><img  src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/Sikuli%20150_0.png" width="80" height="80"/></a>
+<a href="http://www.sikulix.com/" target="blank"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2EKSpPyJdH1MWX6pCh0Ro9Zk4ae8XNKPZQ&usqp=CAU" width="80" height="80"/></a>
 <a href="https://www.autoitscript.com/site/" target="blank"><img src="https://avatars.githubusercontent.com/u/14246064?s=200&v=4" width="80" height="80"/></a>
 <a href="https://git-scm.com/" target="blank"><img src="https://www.logolynx.com/images/logolynx/c6/c619df96a5b24d8b45d923cc19bb82b4.jpeg" width="80" height="80"/></a>
 <a href="https://gogs.io/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gogs_logo.png" width="80" height="80"/></a>
