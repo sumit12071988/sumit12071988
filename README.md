@@ -27,6 +27,7 @@
 <a href="http://maven.apache.org/" target="blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="180" height="50"/></a>
 <a href="https://cucumber.io/" target="blank"><img src="https://i.pinimg.com/originals/df/9b/06/df9b0688eef574c8c776adcd60d9c094.png" width="240" height="70"/></a>
 <a href="https://www.sonarqube.org/" target="blank"><img src="https://www.spirebase.com/img/labs/sonarqube-logo.png" width="200" height="80"/></a>
+<a href="https://solarappscreener.com/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbs9isiugldosTdKtebcF9rcLuzoBcjbFcP7JVJUVGqshQYVnSIt4elF2Dz7f4-QcTk-k&usqp=CAU" width="80" height="80"/></a>
 <a href="https://serenity-bdd.info/" target="blank"><img src="https://miro.medium.com/max/900/1*ugxD2DghxtoZHrjyEBDwbQ.png" width="200" height="80"/></a>
 <a href="https://junit.org/junit5/" target="blank"><img src="https://junit.org/junit4/images/junit5-banner.png" width="240" height="65"/></a>
 <a href="https://www.eclipse.org/ide/" target="blank"><img src="https://myriagaming.files.wordpress.com/2013/06/eclipse_logo.png" width="70" height="70"/></a>
