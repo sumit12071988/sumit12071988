@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/sumit-saha-626baa176/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/black-socicons/512/linkedin-512.png" alt="sumit" height="42" width="42" /></a>
  <a href="mailto:sumit786.88@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-icon-12.png" alt="sumit" height="55" width="55" /></a>
  
-<h1 align="center">👋 Hi, I'm Sumit</h1>
-<h3 align="center">I'm an Automation Consultant :) </h3>
+<h1 align="center">👋 Hi, I'm Sumit (Automation Engineer | CTFL, CSM, SAP FI)</h1>
 
 <p align="center">
 <a href="https://www.java.com/en/" target="blank"><img src="https://developer.asustor.com/uploadIcons/0020_999_1596443479_JAVA.png" width="80" height="80"/></a>
