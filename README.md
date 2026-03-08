@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+things...;...so+you+don%27t+have+to.;QA+Automation+Consultant)](https://git.io/typing-svg)
 
-**[Your Name]** · QA Automation Consultant
+**[Sumit Kumar Saha]** · QA Automation Consultant
 
 *I design and build test automation frameworks that catch bugs before they reach production — so your teams ship with confidence.*
 
@@ -46,10 +46,7 @@ CI/CD Integration     ██████████████████  Gi
 
 **Test Frameworks**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
 
