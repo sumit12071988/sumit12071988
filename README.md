@@ -1,60 +1,105 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     GitHub Profile README — QA Automation Consultant
-     Replace ALL placeholders marked with [ ] before publishing
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  SUMIT KUMAR SAHA — GitHub Profile README           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated typing headline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Breaking+things...+so+you+don%27t+have+to.;15+Years+of+QA+Automation+Mastery.;Now+building+AI-powered+test+systems.;QA+Automation+%E2%9C%95+Gen+AI+%3D+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+things...;...so+you+don%27t+have+to.;QA+Automation+Consultant)](https://git.io/typing-svg)
+### Sumit Kumar Saha
+**SDET · QA Automation Architect · Gen AI Engineer (In Transition)**
 
-**[Sumit Kumar Saha]** · SDET | QA Automation Architect/Consultant | AI QA Automation Enthusiast
+*I spent 15 years making sure software ships without breaking.  
+Now I'm building the AI systems that make that process 10× smarter.*
 
-*I design and build test automation frameworks that catch bugs before they reach production — so your teams ship with confidence.*
-
-[![Email](https://img.shields.io/badge/Email-sumit786.88%40gmail.com-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:sumit786.88@email.com)
+[![Email](https://img.shields.io/badge/Email-sumit786.88%40gmail.com-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:sumit786.88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-saha/)
-![Profile Views](https://komarev.com/ghpvc/?username=sumit12071988&color=3fb950&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=sumit12071988&color=3fb950&style=flat-square&label=Profile+Views)](https://github.com/sumit12071988)
 
 </div>
 
------
+---
 
 ## 🟢 Currently Available
 
-> **Open to consulting engagements** — Test strategy, framework setup, CI/CD integration.
-> Remote · Contract · Full-time · [Book a call →](https://cal.com/yourname)
+> **Open to:** Gen AI Engineer · LLM Evaluation Engineer · AI QA Architect · Senior QA Consultant  
+> **Engagement type:** Remote · Contract · Full-time  
+> **Location:** Singapore · Open to global remote
 
------
+---
 
-## ⚡ What I Do
+## 🧭 My Journey — From QA to Gen AI
 
 ```
-Test Strategy         ██████████████████  I design end-to-end QA plans
-Framework Engineering ███████████████     Playwright · Selenium · Cypress · pytest
-API & Performance     ████████████        Postman · JMeter
-CI/CD Integration     ██████████████████  GitHub Actions · Jenkins · Docker
+2009 ──────── 2022 ──────────────── 2024 ──────── 2026 ────────▶
+  │                │                    │              │
+SDET            QA Architect        AI/ML PGP      Gen AI
+(Selenium/Java) (Framework Design)  (UT Austin)    Engineer
+                                    LLM Evaluation
+                                    RAG Systems
+                                    Computer Vision
 ```
 
------
+> **The insight:** AI systems need testing just as much as traditional software.  
+> My 15 years of QA architecture is not a past life — it's a superpower in disguise.
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / Gen AI Systems
+- **LLM Evaluation Frameworks** — automated quality scoring for LLM outputs
+- **RAG Pipelines** — healthcare Q&A (Mistral-7B + ChromaDB + MiniLM)
+- **ML Classification Systems** — wind turbine failure prediction (ReneWind)
+- **AI-powered JIRA Test Generator** — Claude API → structured QA test cases
+
+</td>
+<td width="50%">
+
+### 🧪 QA Automation Ecosystems
+- **End-to-end test frameworks** from scratch (Selenium, Playwright, Cypress)
+- **API & Performance** suites (Postman, JMeter, Karate)
+- **CI/CD-integrated pipelines** (GitHub Actions, Jenkins, Docker)
+- **Mobile automation** (Appium — Android & iOS)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠 Skills & Tools
 
-**Test Frameworks**
+**AI / ML Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Test Automation**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Serenity](https://img.shields.io/badge/Serenity-C217A3?style=flat-square&logo=Serenity&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white)
-![JUnit](https://img.shields.io/badge/JunitNG-1724C2?style=flat-square&logo=junit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
-![Karate](https://img.shields.io/badge/Karate-C217A3?style=flat-square&logo=Karate&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-C217A3?style=flat-square)
+![Serenity](https://img.shields.io/badge/Serenity-C217A3?style=flat-square)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+![JUnit](https://img.shields.io/badge/JUnit-1724C2?style=flat-square)
 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **CI/CD & Infrastructure**
@@ -65,78 +110,77 @@ CI/CD Integration     ██████████████████  Gi
 ![Allure](https://img.shields.io/badge/Allure-F7941D?style=flat-square)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
------
-<!--
-## 🧪 Featured Projects
+---
 
-|Project                                                                                     |Description                                                   |Stack                  |
-|--------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------|
-|[**playwright-api-sentinel**](https://github.com/yourusername/playwright-api-sentinel)      |End-to-end API test suite — reduced regression time by 70%    |TypeScript · Playwright|
-|[**selenium-grid-orchestrator**](https://github.com/yourusername/selenium-grid-orchestrator)|Docker Selenium Grid with parallel cross-browser execution    |Python · Docker        |
-|[**qa-metrics-dashboard**](https://github.com/yourusername/qa-metrics-dashboard)            |Real-time test results with flakiness detection & Slack alerts|JS · Node · React      |
-|[**bdd-gherkin-starter**](https://github.com/yourusername/bdd-gherkin-starter)              |BDD template with Cucumber, ready-to-fork boilerplate         |Java · Cucumber        |
------
--->
+## 🚀 Featured Projects
+
+### 🧠 AI & Machine Learning
+
+| Project | What It Does | Stack |
+|---|---|---|
+| [**LLM Response Quality Evaluator**](https://github.com/sumit12071988) | Automated pipeline that scores LLM outputs on accuracy, hallucination rate, and coherence | Python · LangChain · Anthropic API |
+| [**Healthcare RAG System**](https://github.com/sumit12071988) | Q&A over Merck Manual using retrieval-augmented generation | Mistral-7B · ChromaDB · MiniLM-L6-v2 |
+| [**ReneWind — Wind Turbine Failure Predictor**](https://github.com/sumit12071988) | Classification model predicting generator failures before they occur | Python · scikit-learn · XGBoost |
+| [**AI JIRA Test Case Generator**](https://github.com/sumit12071988) | Reads JIRA user stories → generates structured test cases (positive, negative, edge, UI, perf) | React · Claude API · JIRA REST |
+
+### 🧪 QA Automation
+
+| Project | What It Does | Stack |
+|---|---|---|
+| [**Enterprise Selenium Framework**](https://github.com/sumit12071988) | Page Object Model framework with parallel execution, Allure reports, Docker Grid | Java · Selenium · TestNG · Docker |
+| [**API Test Suite — Karate + CI**](https://github.com/sumit12071988) | Full API regression suite with contract testing and CI/CD integration | Karate · GitHub Actions · Jenkins |
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit12071988&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit12071988&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumit12071988&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 🎓 Education & Certifications
 
-</div>
+| Program | Institution | Status |
+|---|---|---|
+| 📘 PGP in AI & ML: Business Applications | UT Austin (Texas McCombs) via Great Learning | ✅ Completing Jun 2025 |
+| 🏅 AWS Certified ML Specialty | Amazon Web Services | 🎯 In Progress |
+| 🤖 DeepLearning.AI MLOps Specialization | Coursera | 🎯 Planned |
+| ☕ 15 Years Java + Selenium Expertise | Real-world production systems | ✅ Battle-tested |
 
------
+---
 
-## ✍️ Latest Articles
+## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->
+- 📘 **Why Most Test Automation Fails (And How to Fix It)** — *Feb 2026*
+- 📗 **Playwright vs Selenium vs Cypress in 2026: A Real Comparison** — *Jan 2026*
+- 📙 **Building a Zero-Flake Test Suite from Scratch** — *Dec 2025*
+- 📕 **CI Pipeline Design for QA Engineers** — *Nov 2025*
 
-<!-- This section auto-updates if you use the GitHub Actions blog workflow below -->
-
-- 📘 [Why Most Test Automation Fails (And How to Fix It)]([https://yourblog.dev/post1](https://www.thoughtworks.com/en-sg/insights/blog/5-reasons-why-test-automation-can-fail)) — *Feb 2026*
-- 📗 [Playwright vs Selenium vs Cypress in 2026: A Real Comparison]([https://yourblog.dev/post2](https://medium.com/@antongulin/playwright-vs-cypress-vs-selenium-in-2026-the-definitive-comparison-60dbe84d945a)) — *Jan 2026*
-- 📙 [Building a Zero-Flake Test Suite from Scratch]([https://yourblog.dev/post3](https://medium.com/@samuel.sperling/say-goodbye-to-flaky-tests-playwright-best-practices-every-test-automation-engineer-must-know-9dfeb9bb5017)) — *Dec 2025*
-- 📕 [CI Pipeline Design for QA Engineers]([https://yourblog.dev/post4](https://cloudqa.io/ci-cd-testing-automation-guide/)) — *Nov 2025*
-
-<!-- BLOG-POST-LIST:END -->
-
------
+---
 
 ## 📬 Work With Me
 
-|I can help with                                    |How                                         |
-|---------------------------------------------------|--------------------------------------------|
-|🧱 Building a test automation framework from scratch|[Email me](mailto:sumit786.88@gmail.com)            |
-|🔍 Auditing your existing QA setup                  |[Email me](mailto:sumit786.88@gmail.com)     |
-|🚀 Integrating tests into your CI/CD pipeline       |[LinkedIn](https://www.linkedin.com/in/sumit-kumar-saha/)|
-|📋 Writing a test strategy for your product         |[Email me](mailto:you@email.com)            |
+| I can help your team with | Best way to reach |
+|---|---|
+| 🤖 Evaluating & testing your LLM/AI system outputs | [Email](mailto:sumit786.88@gmail.com) |
+| 🧱 Building a test automation framework from scratch | [Email](mailto:sumit786.88@gmail.com) |
+| 🔍 Auditing your existing QA setup | [LinkedIn](https://www.linkedin.com/in/sumit-kumar-saha/) |
+| 🚀 Integrating AI-assisted testing into your CI/CD | [LinkedIn](https://www.linkedin.com/in/sumit-kumar-saha/) |
+| 📋 Writing a test strategy for AI-powered products | [Email](mailto:sumit786.88@gmail.com) |
 
------
+---
 
 <div align="center">
 
-*“Quality is never an accident; it is always the result of intelligent effort.”*
+*"Quality is never an accident — it is always the result of intelligent effort."*
+
+**The future of QA is AI-augmented. I'm building that future.**
 
 </div>
-
------
-
-<!-- ═══════════════════════════════════════════════════════════════
-     SETUP NOTES:
-     
-     1. Replace ALL [placeholders] with your real info
-     2. Create a repo named exactly: yourusername/yourusername
-        (same name as your GitHub username) — make it public
-     3. Add this README.md to that repo
-     4. For auto-updating blog posts, add this GitHub Action:
-        https://github.com/gautamkrishnar/blog-post-workflow
-     5. For the typing SVG, customize at: https://readme-typing-svg.demolab.com
-     ═══════════════════════════════════════════════════════════════ -->
