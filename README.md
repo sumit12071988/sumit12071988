@@ -14,7 +14,7 @@
 *I design and build test automation frameworks that catch bugs before they reach production — so your teams ship with confidence.*
 
 [![Email](https://img.shields.io/badge/Email-sumit786.88%40gmail.com-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:sumit786.88@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/sumit-kumar-saha/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-saha/)
 ![Profile Views](https://komarev.com/ghpvc/?username=sumit12071988&color=3fb950&style=flat-square&label=Profile+Views)
 
 </div>
