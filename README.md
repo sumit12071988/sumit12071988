@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+things...;...so+you+don%27t+have+to.;QA+Automation+Consultant)](https://git.io/typing-svg)
 
-**[Sumit Kumar Saha]** · SDET | QA Automation Architect/Consultant | AI QA Autoamtion Enthusiast
+**[Sumit Kumar Saha]** · SDET | QA Automation Architect/Consultant | AI QA Automation Enthusiast
 
 *I design and build test automation frameworks that catch bugs before they reach production — so your teams ship with confidence.*
 
