@@ -24,7 +24,7 @@
 
 ## 🟢 Currently Available
 
-> **Open to:** Gen AI Engineer · LLM Evaluation Engineer · AI QA Architect · Senior SDET Lead Architect · Principle QA Architect
+> **Open to:** Gen AI Engineer · LLM Evaluation Engineer · AI QA Architect · Senior SDET Lead Architect · Principle QA Architect  
 > **Engagement:** Remote · Contract · Full-time  
 > **Contact:** [sumit786.88@gmail.com](mailto:sumit786.88@gmail.com) · +65 85153614
 
